@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-03T08:29:21 IST" name="Default suite" finished-at="2020-03-03T08:30:27 IST" duration-ms="66327">
+    <groups>
+    </groups>
+    <test started-at="2020-03-03T08:29:21 IST" name="Default test" finished-at="2020-03-03T08:30:27 IST" duration-ms="66327">
+      <class name="tests.companies.CreateCompanies">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:21 IST" name="beforeSuite" finished-at="2020-03-03T08:29:21 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:21 IST" name="beforeTest" finished-at="2020-03-03T08:29:21 IST" duration-ms="361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@54e3658c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:21 IST" name="beforeMethod" finished-at="2020-03-03T08:29:21 IST" duration-ms="43" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.companies.CreateCompanies.testMetho1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMetho1()[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:21 IST" name="testMetho1" finished-at="2020-03-03T08:29:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMetho1 -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:22 IST" name="beforeMethod" finished-at="2020-03-03T08:29:22 IST" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.companies.CreateCompanies.testMethod(java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod(java.lang.String)[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:29:22 IST" name="testMethod" finished-at="2020-03-03T08:30:26 IST" duration-ms="64073" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:30:26 IST" name="beforeMethod" finished-at="2020-03-03T08:30:26 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.companies.CreateCompanies.testMethod2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod2()[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:30:26 IST" name="testMethod2" finished-at="2020-03-03T08:30:26 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.companies.CreateCompanies@56528192]" started-at="2020-03-03T08:30:26 IST" name="afterTest" finished-at="2020-03-03T08:30:27 IST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.companies.CreateCompanies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
